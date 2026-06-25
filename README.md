@@ -1,13 +1,4 @@
-# Amna Albasher | Cloud & DevOps Engineer
-
-Azure Cloud & DevOps Engineer with 5+ years of experience building 
-enterprise infrastructure across the UAE.
-
-Terraform | Kubernetes | CI/CD | Azure | E-Commerce Operations
-
----
-
-## Projects
+ Projects
 
 ### CloudBite — Enterprise AKS Platform
 Multi-repo cloud-native platform with full DevOps pipeline
