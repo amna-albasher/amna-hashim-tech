@@ -17,4 +17,3 @@ AI-powered Azure infrastructure recommendations
 
 ---
 
- Dubai, UAE | 💼 [LinkedIn](https://www.linkedin.com/in/amna-albasher-5139181aa)
