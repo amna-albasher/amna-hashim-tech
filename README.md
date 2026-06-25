@@ -1,4 +1,4 @@
- Projects
+## Projects
 
 ### CloudBite — Enterprise AKS Platform
 Multi-repo cloud-native platform with full DevOps pipeline
